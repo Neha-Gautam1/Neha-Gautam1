@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Neha-Gautam1
+- 👋 Hi, I’m @Neha-Gautam
 - 👀 I’m passionate about coding
 - 🌱 I’m currently learning MERN Stack Development
 - 💞️ I’m looking to collaborate on my upcoming projects
